@@ -1,0 +1,17 @@
+.footer {
+	font-size: 5rem;
+}
+
+@media (max-width:667px) {
+
+	.footer {
+		font-size: 3rem;
+	}
+}
+
+@media (max-width:350px) {
+
+	.footer {
+		font-size: 2rem;
+	}
+}

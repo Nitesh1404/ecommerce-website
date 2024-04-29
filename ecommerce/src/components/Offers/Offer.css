@@ -1,0 +1,21 @@
+.offer-right img {
+	width: 100%;
+}
+
+@media (max-width:776px) {
+	.offer-left h1 {
+		font-size: 1.5rem;
+	}
+}
+
+@media (max-width:486px) {
+	.offer-left h1 {
+		font-size: 1rem;
+	}
+}
+
+@media (max-width:443px) {
+	.offer-right img {
+		width: 50vw;
+	}
+}

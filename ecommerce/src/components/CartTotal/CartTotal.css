@@ -1,0 +1,21 @@
+.promo {
+    width: 500px;
+}
+
+
+@media (max-width:1128px) {
+    .justify-content-between {
+        /* justify-content: center !important; */
+        flex-wrap: wrap !important;
+    }
+
+    .card-total-part {
+        justify-content: center !important;
+    }
+}
+
+@media (max-width:528px) {
+    .promo {
+        width: 250px;
+    }
+}
